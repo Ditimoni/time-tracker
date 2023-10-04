@@ -1,7 +1,7 @@
 node('built-in') {
     stage('checkout') 
 {
-    git 'https://github.com/Ditimoni/DitiNew.git'
+    git 'https://github.com/Ditimoni/time-tracker.git'
     }
     stage('build and test')
  {

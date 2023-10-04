@@ -3,7 +3,7 @@ pipeline {
     stages {
 	stage('checkout') {
 		steps{
-    		git 'https://github.com/Ditimoni/time-tracker.git'
+    		git 'https://github.com/srctips/time-tracker.git'
 	}
     	}
         stage('build and test') {

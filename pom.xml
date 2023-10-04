@@ -7,7 +7,7 @@
     <version>0.3.1-SNAPSHOT</version>
     <name>Time Tracker (Parent)</name>
     <description>
-        This is a simple Maven / Java web project.
+        This is a simple Maven and Java web project.
     </description>
     <inceptionYear>2015</inceptionYear>
     <url>http://jenkins.training/</url>
